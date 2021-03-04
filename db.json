@@ -1,6 +1,4 @@
 { 
-	"settings": {
-		"backgroundType": "blur",
-		"url": null
-	}
+	"backgroundType": "blur",
+	"url": null
 }
